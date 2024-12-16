@@ -1,6 +1,7 @@
 import streamlit as st
 import pandas as pd
 
+
 # Configurações iniciais do Streamlit
 st.set_page_config(page_title="Gestão de Colaboradores", layout="wide")
 st.title("Gestão de Colaboradores")
