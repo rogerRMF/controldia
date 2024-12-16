@@ -46,3 +46,14 @@ tzdata==2024.2
 urllib3==2.2.3
 watchdog==6.0.0
 wcwidth==0.2.13
+streamlit==1.25.0
+pandas==1.5.3
+openpyxl==3.1.2
+numpy>=1.21.0
+streamlit==1.25.0
+pandas==1.5.3
+openpyxl==3.1.2
+numpy>=1.21.0
+pillow==9.4.0
+watchdog==3.0.0
+python-3.10
